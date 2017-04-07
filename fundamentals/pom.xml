@@ -15,4 +15,12 @@
     </modules>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>com.github.guolll.algorithms</groupId>
+            <artifactId>algs4</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 </project>
